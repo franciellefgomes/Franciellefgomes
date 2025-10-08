@@ -7,7 +7,7 @@
 
 
 
-
+<img align="right" width="370" height="370" style="z-index: 999" src="https://i.pinimg.com/originals/7f/d1/9d/7fd19d09dc2297ad8a0376e4f80d1643.gif" alt="Descrição da imagem" />
 
 <h2 align="left">Skills {</h2>
 
@@ -37,4 +37,4 @@
 <br>
 <br>
 
-!Anurag's GitHub stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Franciellefgomes&show_icons=true&theme=radical)
